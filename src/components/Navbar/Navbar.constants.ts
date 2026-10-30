@@ -1,7 +1,7 @@
 import resumePdf from '../../assets/Deena_R_Fullstack_AI_Engineer.pdf';
 import { NavItem } from './Navbar.interface';
 
-export const BRAND_NAME = 'DEENA R';
+export const BRAND_NAME = 'R Deena';
 export const BRAND_ROLE_BADGE = 'Full Stack AI Engineer';
 
 export const NAV_ITEMS: NavItem[] = [

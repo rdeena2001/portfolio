@@ -8,7 +8,7 @@ import {
 export const HERO_CONTENT = {
   availabilityText: 'Full Stack AI Engineer • Associate Software Engineer',
   greeting: "Hello, I'm",
-  fullName: 'DEENA R',
+  fullName: 'R Deena',
   primaryTitle: 'Full Stack AI Engineer | Associate Software Engineer',
   location: 'Chennai, India',
   email: 'rdeena549@gmail.com',

@@ -1,7 +1,7 @@
 import { FooterQuickLink } from './Footer.interface';
 
 export const FOOTER_CONTENT = {
-  fullName: 'DEENA R',
+  fullName: 'R Deena',
   role: 'Full Stack AI Engineer | Associate Software Engineer',
   tagline:
     'Built with React.js, Node.js, Java, AWS, Azure & AI-powered engineering',

@@ -22,7 +22,7 @@ export const EXPERIENCE_ROLES: ExperienceRole[] = [
       'Develop and maintain enterprise web and mobile applications for the Insurance R&D team, utilizing Java, React, Node.js, and iOS Swift.',
       'Engineered health and insurance-related projects, including building an Android application for Pepper Robot.',
       'Architected and deployed scalable cloud solutions using AWS services (S3, Lambda, API Gateway, EC2).',
-      'Integrated various LLM models and built RAG applications to enhance data retrieval and processing capabilities.',
+      'Developed an AI insurance chatbot using Azure OpenAI, LangChain, and LangGraph for natural language document interaction via a RAG pipeline, backed by Qdrant, FastAPI, and Streamlit.',
       'Leveraged AI development tools including Windsurf, Claude, and Codex to accelerate development workflows.',
     ],
     technologies: [
@@ -34,8 +34,12 @@ export const EXPERIENCE_ROLES: ExperienceRole[] = [
       'Azure',
       'LLM Models',
       'RAG',
-      'Docker',
-      'AI Tools',
+      'Azure OpenAI',
+      'LangChain',
+      'LangGraph',
+      'Qdrant',
+      'FastAPI',
+      'Streamlit',
     ],
   },
   {
@@ -49,12 +53,9 @@ export const EXPERIENCE_ROLES: ExperienceRole[] = [
     isCurrent: false,
     clientProject: 'CRM Web and Mobile Applications',
     highlights: [
-      'Developed and maintained CRM web and mobile applications using Node.js, contributing to all stages of the software development lifecycle.',
-      'Optimized application performance and scalability through database optimization, code refactoring, and performance tuning techniques.',
-      'Integrated Socket.io to enable real-time messaging, enhancing communication features within the application.',
-      'Implemented Firebase Cloud Messaging (FCM) for push notifications, improving user engagement and real-time updates.',
-      'Authored requirement specification documents, maintained detailed documentation, and conducted unit testing to ensure high-quality deliverables.',
-      'Designed and implemented a Financial Management (FM) module for handling profit and loss calculations, ensuring accuracy and efficiency in financial tracking.',
+      'Developed CRM web and mobile applications using Node.js.',
+      'Integrated Socket.io for real-time messaging and Firebase Cloud Messaging (FCM) for push notifications.',
+      'Designed a Financial Management (FM) module for profit and loss calculations.',
     ],
     technologies: [
       'Node.js',
@@ -76,11 +77,9 @@ export const EXPERIENCE_ROLES: ExperienceRole[] = [
     isCurrent: false,
     clientProject: 'E-Commerce Web Applications',
     highlights: [
-      'Developed and maintained e-commerce web applications using Node.js and React.js, contributing to all stages of the software development lifecycle.',
-      'Created reusable and efficient React components for dynamic user interfaces, improving code maintainability and reusability.',
-      'Designed and integrated Apache Kafka for real-time data streaming and event-driven architecture, ensuring efficient handling of large-scale data processing.',
-      'Utilized Docker to containerize applications, improving deployment consistency and scalability across different environments.',
-      'Involved in code reviews, unit testing, and troubleshooting to maintain code quality and ensure a seamless user experience.',
+      'Developed e-commerce web applications using Node.js and React.js.',
+      'Integrated Apache Kafka for real-time data streaming and event-driven architecture.',
+      'Utilized Docker to containerize applications, improving deployment consistency.',
     ],
     technologies: [
       'React.js',
@@ -102,9 +101,8 @@ export const EXPERIENCE_ROLES: ExperienceRole[] = [
     isCurrent: false,
     clientProject: 'E-Commerce & CRM Applications',
     highlights: [
-      'Developed and maintained e-commerce and CRM web applications using Node.js and React.js, contributing to all stages of the software development lifecycle.',
-      'Implemented REST APIs for seamless communication between the frontend and backend systems, ensuring efficient data flow and application performance.',
-      'Implemented Azure Blob Storage for secure and scalable file handling, enabling efficient storage, retrieval, and management of user-generated content.',
+      'Developed e-commerce and CRM web applications using Node.js and React.js.',
+      'Implemented Azure Blob Storage for secure and scalable file handling.',
     ],
     technologies: [
       'React.js',

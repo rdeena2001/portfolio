@@ -9,9 +9,9 @@ export const ABOUT_SECTION_HEADER = {
 };
 
 export const ABOUT_BIO_PARAGRAPHS: string[] = [
-  'I am DEENA R, a Full Stack Developer currently working as an Associate at Cognizant within the Insurance R&D Delivery team. My work focuses on creating scalable web and mobile applications using Java, React, Node.js, and iOS Swift.',
-  'My experience spans the full software development lifecycle, from architecture and implementation to cloud deployment and performance tuning. I specialize in MERN stack development, AWS and Azure architecture, and AI-integrated solutions including LLM model integration and RAG application development.',
-  'I enjoy solving real-world business problems with a mix of clean engineering practices, cloud-native thinking, and AI-assisted development workflows using tools like Windsurf, Claude, and Codex.',
+  'I am R Deena, a Full Stack Developer with 4+ years of professional experience building large-scale web and mobile applications. I am currently an Associate at Cognizant in the Insurance R&D Delivery team, working with Java, React, Node.js, iOS Swift, and cloud services.',
+  'My experience covers the software development lifecycle, MERN stack development, AWS and Azure architectures, and cross-platform applications. I have developed an AI insurance chatbot with Azure OpenAI, LangChain, LangGraph, Qdrant, FastAPI, and Streamlit using a RAG pipeline.',
+  'My AI engineering work includes LLM integration, semantic and similarity search, document chunking, prompt engineering, and agent workflows, using tools including Windsurf, Claude, and Codex.',
 ];
 
 export const ENGINEERING_PILLARS: EngineeringPillar[] = [
@@ -43,14 +43,14 @@ export const ENGINEERING_PILLARS: EngineeringPillar[] = [
     id: 'ai-workflow',
     title: 'AI-Augmented Development',
     description:
-      'Integrating LLM models and RAG architectures to improve data retrieval, business insight generation, and product intelligence.',
+      'Building RAG-based AI applications with Azure OpenAI, LangChain, LangGraph, vector databases, semantic search, and agent workflows.',
     iconName: 'cpu',
-    tags: ['Windsurf', 'Claude', 'Codex', 'LLM', 'RAG'],
+    tags: ['Azure OpenAI', 'LangChain', 'LangGraph', 'Qdrant', 'RAG'],
   },
 ];
 
 export const PERSONAL_INFO_ITEMS: PersonalInfoItem[] = [
-  { label: 'Name', value: 'DEENA R' },
+  { label: 'Name', value: 'R Deena' },
   { label: 'Current Role', value: 'Full Stack AI Engineer | Associate Software Engineer @ Cognizant' },
   { label: 'Location', value: 'Chennai, India' },
   {

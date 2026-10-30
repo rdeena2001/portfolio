@@ -1,4 +1,5 @@
-# Dhinakaran Nambiraj — Senior React.js Developer & Frontend Engineer Portfolio
+# Deena — Full Stack AI Engineer 
+Portfolio
 
 Modern, WCAG 2.1 AA accessible developer portfolio built with **Vite + React + TypeScript + SCSS**.
 
